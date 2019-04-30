@@ -9,3 +9,6 @@
 
 import '../src/jets/crud'
 console.log('Hello World from Webpacker')
+
+import 'bootstrap-umi/dist/js/bootstrap'
+import 'src/application'
